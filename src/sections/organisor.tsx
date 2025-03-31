@@ -12,7 +12,7 @@ const people = [
   },
   {
     id: "person-2",
-    name: "Vahbya",
+    name: "Bavia",
     role: "Role",
     description: "Mischievous or cute? Guess we'll never know coz she is a raccoon.",
     avatar: "/baaaaav.jpeg",
@@ -27,9 +27,9 @@ const people = [
   },
   {
     id: "person-4",
-    name: "Ranish",
+    name: "Ranesh",
     role: "Role",
-    description: "UwU🥺👉👈",
+    description: "Isssssssssneha",
     avatar: "/ranesh.jpeg",
   },
   {
